@@ -9,3 +9,9 @@ These instructions will get you a copy of the project up and running on your loc
 you will need to know the process of creating a connect account , Ideamart account and requesting for a hosting space
 Check @shafrazrahim [tutorial](https://youtu.be/4JLFjWp6mEw)
 
+## Installing
+
+you can use git clone method or direct download method to download the code
+
+`$ git clone https://github.com/djsharox/AvengersInfinityWar-SMS-PHP.git `
+
