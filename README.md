@@ -42,3 +42,8 @@ Then **$receiver** calls **getMessage()** , **getAddress()** and **getRequested(
 	$applicationId = $receiver->getApplicationId();
 ```
 
+ **$sender** allocate the broadcasting message to **sendMessage()** 
+
+```sh
+$sender->sendMessage($third.",your hidden marvel character is ".$mycharacter,$address);
+```
