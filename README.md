@@ -19,7 +19,12 @@ you can use git clone method or direct download method to download the code
 
 Error log and sms libraries are initiated in the begenning 
 
-**Server URL** :- Send service supports only POST HTTP requests. An application wishing to initiate an MT (Mobile Terminated – Delivery of messages from an Ideamart application to a mobile subscriber’s handset) SMS message should use this.
-**Application Id** :- The developer will recieve application ID in provisioning
-**Password** :- The developer will recieve password in provisioning
+`$serverurl= "https://api.dialog.lk/sms/send";
+$applicationId = "APP_044477";
+$password= "296b00a636e26fabd545f72a091d6726";`
+
+
+- **Server URL** :- Send service supports only POST HTTP requests. An application wishing to initiate an MT (Mobile Terminated – Delivery of messages from an Ideamart application to a mobile subscriber’s handset) SMS message should use this.
+- **Application Id** :- The developer will recieve application ID in provisioning
+- **Password** :- The developer will recieve password in provisioning
 
