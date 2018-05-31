@@ -12,17 +12,17 @@ Check @shafrazrahim [tutorial](https://youtu.be/4JLFjWp6mEw)
 ## Installing
 
 you can use git clone method or direct download method to download the code
-
-`$ git clone https://github.com/djsharox/AvengersInfinityWar-SMS-PHP.git `
-
+```sh
+	$ git clone https://github.com/djsharox/AvengersInfinityWar-SMS-PHP.git
+```
 ### Send your first SMS
 
 Error log and sms libraries are initiated in the begenning 
 
 ```sh
 	$serverurl= "https://api.dialog.lk/sms/send";
-	$applicationId = "APP_044477";
-	$password= "296b00a636e26fabd545f72a091d6726";
+	$applicationId = "APP_XXXXXX";
+	$password= "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 ```
 
 - **Server URL** :- Send service supports only POST HTTP requests. An application wishing to initiate an MT (Mobile Terminated – Delivery of messages from an Ideamart application to a mobile subscriber’s handset) SMS message should use this.
@@ -36,7 +36,7 @@ Try catch method is used to capture data , **SMSReceiver** initialize the receiv
 Then **$receiver** calls **getMessage()** , **getAddress()** and **getRequested()** to capture data.
 
 ```sh
-	$content =$receiver->getMessage();
+	$content = $receiver->getMessage();
 	$address = $receiver->getAddress();
 	$requestId = $receiver->getRequestID();
 	$applicationId = $receiver->getApplicationId();
