@@ -48,7 +48,7 @@ Then **$receiver** calls **getMessage()** , **getAddress()** and **getRequested(
 	$sender->sendMessage($third.",your hidden marvel character is ".$mycharacter,$address);
 ```
 
-### Deployment
+## Deployment
 - Uploading the built Php script to hosting space
 
 Watch Part 3 of the tutorial https://youtu.be/_6NrBCjie6o
@@ -57,5 +57,5 @@ Watch Part 3 of the tutorial https://youtu.be/_6NrBCjie6o
 
 Watch Part 4 of the tutorial https://youtu.be/KhMovZXvNZQ
 
-### License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
