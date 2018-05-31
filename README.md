@@ -45,5 +45,17 @@ Then **$receiver** calls **getMessage()** , **getAddress()** and **getRequested(
  **$sender** allocate the broadcasting message to **sendMessage()** 
 
 ```sh
-$sender->sendMessage($third.",your hidden marvel character is ".$mycharacter,$address);
+	$sender->sendMessage($third.",your hidden marvel character is ".$mycharacter,$address);
 ```
+
+### Deployment
+- Uploading the built Php script to hosting space
+
+Watch Part 3 of the tutorial https://youtu.be/_6NrBCjie6o
+
+- Provisioning (registering) your application, obtaining the app id and the password and checking in limited production
+
+Watch Part 4 of the tutorial https://youtu.be/KhMovZXvNZQ
+
+### License
+This project is licensed under the MIT License - see the LICENSE.md file for details
