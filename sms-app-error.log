@@ -1,0 +1,368 @@
+[28-May-2018 11:44:53 Asia/Colombo] Broadcast Message mesg go
+[28-May-2018 11:44:54 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Requested NCS service is not available.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:64
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(52): SMSSender->handleResponse(Object(stdClass))
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(40): SMSSender->sendRequest('{"applicationId...')
+#2 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(32): SMSSender->sendMessage(false, Array)
+#3 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(65): SMSSender->broadcastMessage(false)
+#4 {main}
+[28-May-2018 11:47:42 Asia/Colombo] Message received Mesg gh
+[28-May-2018 11:48:05 Asia/Colombo] Broadcast Message Mesg go
+[28-May-2018 11:48:06 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Requested NCS service is not available.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:64
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(52): SMSSender->handleResponse(Object(stdClass))
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(40): SMSSender->sendRequest('{"applicationId...')
+#2 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(32): SMSSender->sendMessage(false, Array)
+#3 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(65): SMSSender->broadcastMessage(false)
+#4 {main}
+[28-May-2018 12:04:57 Asia/Colombo] Broadcast Message Mesg go
+[28-May-2018 12:04:58 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Requested NCS service is not available.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:64
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(52): SMSSender->handleResponse(Object(stdClass))
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(40): SMSSender->sendRequest('{"applicationId...')
+#2 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(32): SMSSender->sendMessage(false, Array)
+#3 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(65): SMSSender->broadcastMessage(false)
+#4 {main}
+[28-May-2018 12:05:15 Asia/Colombo] Message received Mesg gh
+
+///
+[28-May-2018 12:08:43 Asia/Colombo] Broadcast Message Mesg go
+[28-May-2018 12:08:44 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Requested NCS service is not available.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:64
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(52): SMSSender->handleResponse(Object(stdClass))
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(40): SMSSender->sendRequest('{"applicationId...')
+#2 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(32): SMSSender->sendMessage(false, Array)
+#3 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(65): SMSSender->broadcastMessage(false)
+#4 {main}
+
+
+
+///////
+[28-May-2018 12:32:13 Asia/Colombo] Broadcast Message Mesg go
+[28-May-2018 12:32:15 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Requested NCS service is not available.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:64
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(52): SMSSender->handleResponse(Object(stdClass))
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(40): SMSSender->sendRequest('{"applicationId...')
+#2 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(32): SMSSender->sendMessage(false, Array)
+#3 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(60): SMSSender->broadcastMessage(false)
+#4 {main}
+[28-May-2018 12:51:27 Asia/Colombo] Broadcast Message Mesg go
+[28-May-2018 12:51:30 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Requested NCS service is not available.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:64
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(52): SMSSender->handleResponse(Object(stdClass))
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(40): SMSSender->sendRequest('{"applicationId...')
+#2 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(32): SMSSender->sendMessage(false, Array)
+#3 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(61): SMSSender->broadcastMessage(false)
+#4 {main}
+[28-May-2018 14:33:11 Asia/Colombo] Broadcast Message Mesg go
+[28-May-2018 14:33:14 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Requested NCS service is not available.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:64
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(52): SMSSender->handleResponse(Object(stdClass))
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(40): SMSSender->sendRequest('{"applicationId...')
+#2 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(32): SMSSender->sendMessage('test', Array)
+#3 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(61): SMSSender->broadcastMessage('test')
+#4 {main}
+[28-May-2018 14:34:12 Asia/Colombo] Broadcast Message Mesg go
+[28-May-2018 14:34:12 Asia/Colombo] PHP Fatal error:  Call to undefined method SMSSender::broadcast() in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 61
+[28-May-2018 14:34:36 Asia/Colombo] Broadcast Message Mesg go
+[28-May-2018 14:34:36 Asia/Colombo] PHP Fatal error:  Call to undefined method SMSSender::broadcast() in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 61
+[28-May-2018 14:37:20 Asia/Colombo] Broadcast Message Mesg go
+[28-May-2018 14:37:21 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Requested NCS service is not available.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:64
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(52): SMSSender->handleResponse(Object(stdClass))
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(40): SMSSender->sendRequest('{"applicationId...')
+#2 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(32): SMSSender->sendMessage('test', Array)
+#3 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(61): SMSSender->broadcastMessage('test')
+#4 {main}
+
+
+
+//
+[28-May-2018 14:42:53 Asia/Colombo] Broadcast Message Mesg go
+[28-May-2018 14:42:55 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Requested NCS service is not available.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:64
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(52): SMSSender->handleResponse(Object(stdClass))
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(40): SMSSender->sendRequest('{"applicationId...')
+#2 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(32): SMSSender->sendMessage('test', Array)
+#3 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(61): SMSSender->broadcastMessage('test')
+#4 {main}
+[28-May-2018 17:26:55 Asia/Colombo] PHP Notice:  Use of undefined constant content - assumed 'content' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 45
+[28-May-2018 17:26:55 Asia/Colombo] Message received Mesg go
+[28-May-2018 17:30:00 Asia/Colombo] Broadcast Message Mesg go
+[28-May-2018 17:34:59 Asia/Colombo] Message received Mesg go
+[28-May-2018 17:34:59 Asia/Colombo] PHP Notice:  Undefined variable: second in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 59
+[31-May-2018 06:37:43 Asia/Colombo] Broadcast Message Mesg go
+[31-May-2018 06:38:21 Asia/Colombo] Broadcast Message Mesg go
+[31-May-2018 06:38:39 Asia/Colombo] Message received Mesg goh
+[31-May-2018 06:39:16 Asia/Colombo] Message received Mesg gg
+[31-May-2018 07:21:02 Asia/Colombo] Message received Mesg goh
+[31-May-2018 07:21:17 Asia/Colombo] PHP Notice:  Undefined index:  in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 50
+[31-May-2018 07:21:17 Asia/Colombo] Broadcast Message Mesg go
+[31-May-2018 07:21:49 Asia/Colombo] PHP Notice:  Undefined index:  in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 50
+[31-May-2018 07:21:49 Asia/Colombo] Broadcast Message Mesg go
+[31-May-2018 07:22:46 Asia/Colombo] PHP Notice:  Undefined index:  in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 50
+[31-May-2018 07:22:46 Asia/Colombo] Broadcast Message Mesg go
+[31-May-2018 07:31:39 Asia/Colombo] Message received Mesg gohh
+[31-May-2018 07:31:51 Asia/Colombo] PHP Notice:  Undefined index:  in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 50
+[31-May-2018 07:31:51 Asia/Colombo] Broadcast Message Mesg go
+[31-May-2018 07:32:28 Asia/Colombo] PHP Notice:  Undefined index:  in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 50
+[31-May-2018 07:32:28 Asia/Colombo] Broadcast Message Mesg go
+[31-May-2018 07:33:05 Asia/Colombo] PHP Notice:  Undefined index:  in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 50
+[31-May-2018 07:33:05 Asia/Colombo] Broadcast Message Mesg go
+[31-May-2018 07:33:05 Asia/Colombo] PHP Warning:  Missing argument 2 for SMSSender::sendMessage(), called in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 57 and defined in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php on line 35
+[31-May-2018 07:33:05 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Format of the address is invalid.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:37
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(57): SMSSender->sendMessage('This is a broad...')
+#1 {main}
+[31-May-2018 07:34:15 Asia/Colombo] PHP Notice:  Undefined offset: 1 in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 42
+[31-May-2018 07:34:15 Asia/Colombo] Message received
+[31-May-2018 07:34:15 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Format of the address is invalid.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:37
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(64): SMSSender->sendMessage('This message is...', NULL)
+#1 {main}
+[31-May-2018 07:34:59 Asia/Colombo] PHP Notice:  Undefined offset: 1 in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 42
+[31-May-2018 07:34:59 Asia/Colombo] Message received
+[31-May-2018 07:34:59 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Format of the address is invalid.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:37
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(64): SMSSender->sendMessage('This message is...', NULL)
+#1 {main}
+[31-May-2018 07:35:03 Asia/Colombo] PHP Notice:  Undefined offset: 1 in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 42
+[31-May-2018 07:35:03 Asia/Colombo] Message received
+[31-May-2018 07:35:03 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Format of the address is invalid.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:37
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(64): SMSSender->sendMessage('This message is...', NULL)
+#1 {main}
+[31-May-2018 07:35:04 Asia/Colombo] PHP Notice:  Undefined offset: 1 in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 42
+[31-May-2018 07:35:04 Asia/Colombo] Message received
+[31-May-2018 07:35:04 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Format of the address is invalid.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:37
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(64): SMSSender->sendMessage('This message is...', NULL)
+#1 {main}
+[31-May-2018 07:35:04 Asia/Colombo] PHP Notice:  Undefined offset: 1 in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 42
+[31-May-2018 07:35:04 Asia/Colombo] Message received
+[31-May-2018 07:35:04 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Format of the address is invalid.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:37
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(64): SMSSender->sendMessage('This message is...', NULL)
+#1 {main}
+[31-May-2018 07:35:04 Asia/Colombo] PHP Notice:  Undefined offset: 1 in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 42
+[31-May-2018 07:35:04 Asia/Colombo] Message received
+[31-May-2018 07:35:04 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Format of the address is invalid.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:37
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(64): SMSSender->sendMessage('This message is...', NULL)
+#1 {main}
+[31-May-2018 07:35:05 Asia/Colombo] PHP Notice:  Undefined offset: 1 in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 42
+[31-May-2018 07:35:05 Asia/Colombo] Message received
+[31-May-2018 07:35:05 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Format of the address is invalid.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:37
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(64): SMSSender->sendMessage('This message is...', NULL)
+#1 {main}
+[31-May-2018 07:35:17 Asia/Colombo] PHP Notice:  Undefined offset: 1 in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 42
+[31-May-2018 07:35:17 Asia/Colombo] Message received
+[31-May-2018 07:35:17 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Format of the address is invalid.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:37
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(64): SMSSender->sendMessage('This message is...', NULL)
+#1 {main}
+[31-May-2018 07:35:47 Asia/Colombo] PHP Notice:  Undefined index:  in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 50
+[31-May-2018 07:35:47 Asia/Colombo] Broadcast Message Mesg go
+[31-May-2018 07:37:49 Asia/Colombo] PHP Notice:  Undefined offset: 1 in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 42
+[31-May-2018 07:37:49 Asia/Colombo] Message received
+[31-May-2018 07:37:49 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Format of the address is invalid.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:37
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(65): SMSSender->sendMessage('This message is...', NULL)
+#1 {main}
+[31-May-2018 07:38:07 Asia/Colombo] PHP Notice:  Undefined variable: second in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 46
+[31-May-2018 07:38:07 Asia/Colombo] Message received
+[31-May-2018 07:38:07 Asia/Colombo] PHP Notice:  Undefined variable: second in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 65
+[31-May-2018 07:38:07 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Format of the address is invalid.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:37
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(65): SMSSender->sendMessage('This message is...', NULL)
+#1 {main}
+[31-May-2018 07:38:36 Asia/Colombo] Message received
+[31-May-2018 07:38:36 Asia/Colombo] PHP Notice:  Undefined variable: second in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 65
+[31-May-2018 07:38:36 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Format of the address is invalid.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:37
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(65): SMSSender->sendMessage('This message is...', NULL)
+#1 {main}
+[31-May-2018 07:38:59 Asia/Colombo] Message received
+[31-May-2018 07:38:59 Asia/Colombo] PHP Warning:  Missing argument 2 for SMSSender::sendMessage(), called in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 65 and defined in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php on line 35
+[31-May-2018 07:38:59 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Format of the address is invalid.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:37
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(65): SMSSender->sendMessage('This message is...')
+#1 {main}
+[31-May-2018 07:40:11 Asia/Colombo] PHP Notice:  Undefined offset: 1 in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 42
+[31-May-2018 07:40:11 Asia/Colombo] Message received
+[31-May-2018 07:40:11 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Format of the address is invalid.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:37
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(65): SMSSender->sendMessage('This message is...', NULL)
+#1 {main}
+[31-May-2018 07:41:28 Asia/Colombo] PHP Notice:  Undefined offset: 1 in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 42
+[31-May-2018 07:41:28 Asia/Colombo] Message received
+[31-May-2018 07:41:28 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Format of the address is invalid.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:37
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(65): SMSSender->sendMessage('This message is...', NULL)
+#1 {main}
+[31-May-2018 07:41:31 Asia/Colombo] PHP Notice:  Undefined offset: 1 in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 42
+[31-May-2018 07:41:31 Asia/Colombo] Message received
+[31-May-2018 07:41:31 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Format of the address is invalid.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:37
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(65): SMSSender->sendMessage('This message is...', NULL)
+#1 {main}
+[31-May-2018 07:41:43 Asia/Colombo] PHP Notice:  Undefined offset: 1 in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 42
+[31-May-2018 07:41:43 Asia/Colombo] Message received
+[31-May-2018 07:41:43 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Format of the address is invalid.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:37
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(65): SMSSender->sendMessage('This message is...', NULL)
+#1 {main}
+[31-May-2018 07:45:11 Asia/Colombo] PHP Notice:  Undefined index:  in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 50
+[31-May-2018 07:45:11 Asia/Colombo] Broadcast Message Mesg go
+[31-May-2018 07:45:12 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Format of the address is invalid.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:64
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(52): SMSSender->handleResponse(Object(stdClass))
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php(40): SMSSender->sendRequest('{"applicationId...')
+#2 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(58): SMSSender->sendMessage('This is a broad...', 'dfd')
+#3 {main}
+[31-May-2018 07:46:27 Asia/Colombo] PHP Notice:  Undefined index:  in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 50
+[31-May-2018 07:46:27 Asia/Colombo] Broadcast Message Mesg go
+[31-May-2018 07:47:11 Asia/Colombo] PHP Notice:  Undefined index:  in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 50
+[31-May-2018 07:47:11 Asia/Colombo] Broadcast Message Mesg go
+[31-May-2018 08:39:53 Asia/Colombo] PHP Notice:  Undefined index:  in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 50
+[31-May-2018 08:39:53 Asia/Colombo] Broadcast Message Mesg go
+[31-May-2018 08:42:47 Asia/Colombo] PHP Notice:  Undefined index:  in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 50
+[31-May-2018 08:42:47 Asia/Colombo] Broadcast Message Mesg gogotest
+
+
+////
+[31-May-2018 08:45:14 Asia/Colombo] PHP Notice:  Undefined index:  in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 50
+[31-May-2018 08:45:14 Asia/Colombo] Broadcast Message Mesg gogotest
+[31-May-2018 08:45:14 Asia/Colombo] 0
+
+
+
+///
+[31-May-2018 08:53:23 Asia/Colombo] Broadcast Message Mesg gogotest78
+[31-May-2018 08:53:23 Asia/Colombo] 78
+[31-May-2018 08:54:06 Asia/Colombo] Broadcast Message Mesg gogotest38
+[31-May-2018 08:54:06 Asia/Colombo] 38
+[31-May-2018 08:54:54 Asia/Colombo] Broadcast Message Mesg gogotest20
+[31-May-2018 08:54:54 Asia/Colombo] 20
+[31-May-2018 08:58:25 Asia/Colombo] Broadcast Message Mesg gogotest94
+[31-May-2018 08:58:25 Asia/Colombo] 94Neo
+[31-May-2018 09:00:33 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 55
+[31-May-2018 09:00:33 Asia/Colombo] Broadcast Message Mesg gogo
+[31-May-2018 09:00:33 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 56
+[31-May-2018 09:00:33 Asia/Colombo] Morpheus
+[31-May-2018 09:00:44 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 55
+[31-May-2018 09:00:44 Asia/Colombo] Broadcast Message Mesg gogo
+[31-May-2018 09:00:44 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 56
+[31-May-2018 09:00:44 Asia/Colombo] Morpheus
+[31-May-2018 09:01:13 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 55
+[31-May-2018 09:01:13 Asia/Colombo] Broadcast Message Mesg gogo
+[31-May-2018 09:01:13 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 56
+[31-May-2018 09:01:13 Asia/Colombo] Morpheus
+[31-May-2018 09:01:33 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 55
+[31-May-2018 09:01:33 Asia/Colombo] Broadcast Message Mesg gogo
+[31-May-2018 09:01:33 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 56
+[31-May-2018 09:01:33 Asia/Colombo] Morpheus
+[31-May-2018 09:16:33 Asia/Colombo] Broadcast Message Mesg gogo69
+[31-May-2018 09:16:33 Asia/Colombo] 69Morpheus
+[31-May-2018 09:16:33 Asia/Colombo] Broadcast Message Mesg gogo75
+[31-May-2018 09:16:33 Asia/Colombo] 75Morpheus
+[31-May-2018 09:17:16 Asia/Colombo] Broadcast Message Mesg gogo63
+[31-May-2018 09:17:16 Asia/Colombo] 63Neo
+[31-May-2018 09:17:19 Asia/Colombo] Broadcast Message Mesg gogo68
+[31-May-2018 09:17:19 Asia/Colombo] 68Neo
+[31-May-2018 09:25:26 Asia/Colombo] Broadcast Message Mesg gogo33
+[31-May-2018 09:25:26 Asia/Colombo] 33Neo
+[31-May-2018 09:25:46 Asia/Colombo] Broadcast Message Mesg gogo38
+[31-May-2018 09:25:46 Asia/Colombo] 38Neo
+[31-May-2018 09:27:49 Asia/Colombo] Broadcast Message Mesg gogo59
+[31-May-2018 09:27:49 Asia/Colombo] 59Morpheus
+[31-May-2018 09:27:55 Asia/Colombo] Broadcast Message Mesg gogo57
+[31-May-2018 09:27:55 Asia/Colombo] 57Morpheus
+[31-May-2018 09:28:16 Asia/Colombo] Broadcast Message Mesg gogo11
+[31-May-2018 09:28:16 Asia/Colombo] 11Morpheus
+[31-May-2018 09:28:19 Asia/Colombo] Broadcast Message Mesg gogo20
+[31-May-2018 09:28:19 Asia/Colombo] 20Morpheus
+[31-May-2018 09:29:25 Asia/Colombo] PHP Notice:  Undefined offset: 1 in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 42
+[31-May-2018 09:29:25 Asia/Colombo] Message received 
+[31-May-2018 09:29:25 Asia/Colombo] Passed Exception exception 'SMSServiceException' with message 'Format of the address is invalid.' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/lib/SMSSender.php:37
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php(71): SMSSender->sendMessage('This message is...', NULL)
+#1 {main}
+[31-May-2018 09:35:08 Asia/Colombo] Broadcast Message Mesg gogo16
+[31-May-2018 09:35:08 Asia/Colombo] 16Trinity
+[31-May-2018 09:35:11 Asia/Colombo] Broadcast Message Mesg gogo97
+[31-May-2018 09:35:11 Asia/Colombo] 97Trinity
+[31-May-2018 09:35:30 Asia/Colombo] Broadcast Message Mesg gogo50
+[31-May-2018 09:35:30 Asia/Colombo] 50Neo
+[31-May-2018 09:35:56 Asia/Colombo] Broadcast Message Mesg gogo70
+[31-May-2018 09:35:56 Asia/Colombo] 70Tank
+[31-May-2018 09:39:07 Asia/Colombo] Broadcast Message Mesg gogo52
+[31-May-2018 09:39:07 Asia/Colombo] 52Trinity
+[31-May-2018 09:40:28 Asia/Colombo] Broadcast Message Mesg gogo12
+[31-May-2018 09:40:28 Asia/Colombo] 12Trinity
+[31-May-2018 09:40:45 Asia/Colombo] Broadcast Message Mesg gogo62
+[31-May-2018 09:40:45 Asia/Colombo] 62Tank
+[31-May-2018 09:42:51 Asia/Colombo] Broadcast Message Mesg gogo13
+[31-May-2018 09:42:51 Asia/Colombo] 13Neo
+[31-May-2018 09:44:12 Asia/Colombo] Broadcast Message Mesg gogo75
+[31-May-2018 09:44:12 Asia/Colombo] 75Neo
+[31-May-2018 09:44:52 Asia/Colombo] Broadcast Message Mesg gogo57
+[31-May-2018 09:44:52 Asia/Colombo] 57Cypher
+[31-May-2018 09:46:29 Asia/Colombo] Broadcast Message Mesg gogo34
+[31-May-2018 09:46:29 Asia/Colombo] 34Trinity
+[31-May-2018 09:47:37 Asia/Colombo] Broadcast Message Mesg gogo87
+[31-May-2018 09:47:37 Asia/Colombo] 87Cypher
+[31-May-2018 12:47:10 Asia/Colombo] Broadcast Message Mesg gogo70
+[31-May-2018 12:47:10 Asia/Colombo] 70Captain America
+[31-May-2018 12:48:01 Asia/Colombo] Broadcast Message Mesg gogo67
+[31-May-2018 12:48:01 Asia/Colombo] 67Hawkeye
+[31-May-2018 12:48:07 Asia/Colombo] Broadcast Message Mesg gogo45
+[31-May-2018 12:48:07 Asia/Colombo] 45Hulk
+[31-May-2018 12:49:50 Asia/Colombo] Broadcast Message mesg gogo57
+[31-May-2018 12:49:50 Asia/Colombo] 57Black Panther
+[31-May-2018 13:34:05 Asia/Colombo] Broadcast Message Mesg gogo62
+[31-May-2018 13:34:05 Asia/Colombo] 62Hulk
+[31-May-2018 13:34:19 Asia/Colombo] Broadcast Message Mesg gogo49
+[31-May-2018 13:34:19 Asia/Colombo] 49Falcon
+[31-May-2018 13:35:18 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 56
+[31-May-2018 13:35:18 Asia/Colombo] Broadcast Message Mesg marvelmarvel
+[31-May-2018 13:35:18 Asia/Colombo] PHP Notice:  Undefined variable: x in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 57
+[31-May-2018 13:35:18 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 57
+[31-May-2018 13:35:18 Asia/Colombo] 
+[31-May-2018 13:35:39 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 56
+[31-May-2018 13:35:39 Asia/Colombo] Broadcast Message Mesg marvel shahmarvel
+[31-May-2018 13:35:39 Asia/Colombo] PHP Notice:  Undefined variable: x in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 57
+[31-May-2018 13:35:39 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 57
+[31-May-2018 13:35:39 Asia/Colombo] 
+[31-May-2018 13:36:41 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 56
+[31-May-2018 13:36:41 Asia/Colombo] Broadcast Message Mesg marvel shahmarvel
+[31-May-2018 13:36:41 Asia/Colombo] PHP Notice:  Undefined variable: x in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 57
+[31-May-2018 13:36:41 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 57
+[31-May-2018 13:36:41 Asia/Colombo] 
+[31-May-2018 13:38:30 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 56
+[31-May-2018 13:38:30 Asia/Colombo] Broadcast Message Mesg marvel shanakqmarvel
+[31-May-2018 13:38:30 Asia/Colombo] PHP Notice:  Undefined variable: x in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 57
+[31-May-2018 13:38:30 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 57
+[31-May-2018 13:38:30 Asia/Colombo] 
+[31-May-2018 13:41:53 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 56
+[31-May-2018 13:41:53 Asia/Colombo] Broadcast Message Mesg marvel testmarvel
+[31-May-2018 13:41:53 Asia/Colombo] PHP Notice:  Undefined variable: x in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 57
+[31-May-2018 13:41:53 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 57
+[31-May-2018 13:41:53 Asia/Colombo] 
+[31-May-2018 18:43:56 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 56
+[31-May-2018 18:43:56 Asia/Colombo] Broadcast Message Mesg marvel karthiakanmarvel
+[31-May-2018 18:43:56 Asia/Colombo] PHP Notice:  Undefined variable: x in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 57
+[31-May-2018 18:43:56 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 57
+[31-May-2018 18:43:56 Asia/Colombo] 
+[31-May-2018 22:34:35 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 56
+[31-May-2018 22:34:35 Asia/Colombo] Broadcast Message Mesg marvel testmarvel
+[31-May-2018 22:34:35 Asia/Colombo] PHP Notice:  Undefined variable: x in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 57
+[31-May-2018 22:34:35 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 57
+[31-May-2018 22:34:35 Asia/Colombo] 
+[31-May-2018 22:39:21 Asia/Colombo] Message received Mesg marel test
+[31-May-2018 23:02:34 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 56
+[31-May-2018 23:02:34 Asia/Colombo] Broadcast Message mesg marvel textmarvel
+[31-May-2018 23:02:34 Asia/Colombo] PHP Notice:  Undefined variable: x in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 57
+[31-May-2018 23:02:34 Asia/Colombo] PHP Notice:  Undefined variable: name in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/sms/sms.php on line 57
+[31-May-2018 23:02:34 Asia/Colombo] 
